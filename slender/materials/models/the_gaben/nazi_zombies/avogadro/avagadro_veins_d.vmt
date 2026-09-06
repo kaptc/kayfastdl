@@ -1,0 +1,16 @@
+"unlitgeneric"
+{
+	"$basetexture" "models/the_gaben/nazi_zombies/avogadro/avagadro_veins_d"
+	"$nodecal" "1"
+	"$additive" 1"
+
+	"Proxies" 
+	{
+      		"AnimatedTexture" 
+		{
+          			"AnimatedTextureVar" "$basetexture" 
+          			"AnimatedTextureFrameNumVar" "$frame" 
+          			"AnimatedTextureFrameRate" "27"
+		}
+	}
+}

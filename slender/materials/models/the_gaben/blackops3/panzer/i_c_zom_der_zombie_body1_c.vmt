@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/blackops3/panzer/i_c_zom_der_zombie_body1_c"
+	"$bumpmap" "models/the_gaben/blackops3/panzer/i_c_zom_der_zombie_body1_N"
+	//"$nocull"		"1"
+
+	"$color2"		"[0.87 0.87 0.87]"
+	
+	"$phong" "1"
+	"$phongexponent"				"40"
+	"$phongboost"					"0.25"
+	"$phongfresnelranges"			"[0.3 0.7 1.5]"
+	
+	"$phongalbedotint" 1
+}

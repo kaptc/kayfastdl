@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/blackops3/panzer/i_c_zom_dlc1_mechzombie_lower_body_a_c"
+	"$bumpmap" "models/the_gaben/blackops3/panzer/i_c_zom_dlc1_mechzombie_lower_body_a_N"
+	//"$nocull"		"1"
+
+	"$color2"		"[0.87 0.87 0.87]"
+	
+	"$phong" "1"
+	"$phongexponent"				"40"
+	"$phongboost"					"0.15"
+	"$phongfresnelranges"			"[0.3 0.7 1.5]"
+
+
+	"$detail" "models/the_gaben/blackops3/panzer/i_c_zom_dlc1_mechzombie_lower_body_a_g"
+	$detailscale 1
+	$detailblendmode 1
+	$detailblendfactor 0.1
+}
