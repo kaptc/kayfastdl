@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture"         "models/mark2580/Payday2/Cloaker_zeal/Cloaker_zeal_team_head"
+	"$bumpmap"             "models/mark2580/Payday2/Cloaker_zeal/Cloaker_zeal_team_head_n"
+
+	"$phong"               "1"
+	"$phongboost"	       "1"
+	"$phongexponent"       "10"
+	"$phongfresnelranges"  "[.1 .1 .1]"
+
+	"$lightwarptexture"	"models/mark2580/Payday2/Cloaker_zeal/lightwarp_soft_white" 
+
+    "$normalmapalphaenvmapmask"    "1"
+	
+	"$selfillum"	    "1"
+	"$selfillumtint"	"[0 10 0]"
+}

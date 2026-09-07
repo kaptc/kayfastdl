@@ -1,0 +1,11 @@
+"Unlittwotexture"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Weapons/V_models/mp5/TEXTURE5"
+	"$texture2"	 "models/Weapons/V_models/mp5/TEXTURE5"
+	"$additive" 1
+	"$model" 1
+
+
+
+}
