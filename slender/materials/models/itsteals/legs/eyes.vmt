@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/itsteals/legs/eyes"
+	"$selfillummask" "models/itsteals/legs/eyes"
+                "$selfillum" "1"
+                "$selfillumtint" "[5 6 7]"
+}

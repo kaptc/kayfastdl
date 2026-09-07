@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/itsteals/legs/body"
+	$bumpmap				"models/itsteals/legs/body_n"
+	$color					"[1 1 1]"
+	$phong					1
+	$phongexponent			20
+	$phongboost				0.5
+	$phongfresnelranges		"[0.1 0.5 1]"
+	$phongtint				"[1 1 1]"
+}

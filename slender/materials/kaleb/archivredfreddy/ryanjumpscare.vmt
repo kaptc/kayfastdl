@@ -1,0 +1,13 @@
+"UnlitGeneric" 
+{
+	"$basetexture" "kaleb/archivredfreddy/ryanjumpscare"
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "1"
+		 } 
+	} 
+}

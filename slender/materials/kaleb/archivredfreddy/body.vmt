@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "kaleb/archivredfreddy/body"
+
+    "$twosided" "1"
+    "$nocull" "1"
+
+}
