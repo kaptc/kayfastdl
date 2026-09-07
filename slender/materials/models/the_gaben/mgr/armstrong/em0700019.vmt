@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/mgr/armstrong/em0700019"
+    	"$bumpmap"     "models/the_gaben/mgr/armstrong/em0700020"
+	$translucent 1
+	
+
+	$phong "1"
+	$phongboost "0.05"
+	$phongfresnelranges "[1 2 4]"
+	$phongexponent "15"
+	
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "0.9"
+}
