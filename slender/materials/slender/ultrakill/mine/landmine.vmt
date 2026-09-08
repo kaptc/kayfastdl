@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "slender/ultrakill/mine/landmine"
+	"$translucent" 1
+}
